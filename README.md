@@ -7,6 +7,17 @@ Clone/fork this repository and make a commit with this change. After you've made
 
 <BR><BR>
 
+## My Changes
+Based on your guide.
+1. Updated app/main/routes.py/index
+2. Updated app/templates/index.html
+
+Screenshots
+![Alt text](/screenshots/1.png?raw=true "Explore Page")
+![Alt text](/screenshots/2.png?raw=true "Index Page")
+
+<BR><BR>
+
 ## Contributions
 Feel free to clone this repo locally and use your own editor of choice.
 
